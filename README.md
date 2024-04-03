@@ -42,3 +42,7 @@ subir para nuvem
 
 > git push origin main 
 
+baixar um projeto novo do git
+
+> git clone url_do_projeto
+
