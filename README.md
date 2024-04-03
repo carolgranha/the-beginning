@@ -27,3 +27,18 @@ abrir vs code
 limpar comandos do shell
 
 > clear
+
+## comandos do git
+
+adicionar arquivos 
+
+> git add . 
+
+gerar o commit
+
+> git commit -m "ecrever um comentario"
+
+subir para nuvem
+
+> git push origin main 
+
