@@ -23,3 +23,7 @@ remover pasta
 abrir vs code
 
 > code .
+
+limpar comandos do shell
+
+> clear
